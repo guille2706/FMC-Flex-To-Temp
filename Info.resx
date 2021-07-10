@@ -4826,14 +4826,6 @@
         kZMYKcEhxNuFqFosRowYbyI3n/3/E0arM19lBnQAAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="textBox1.Text" xml:space="preserve">
-    <value>Este Programa es de uso libre y gratuito para toda la comunidad!!
-Los cálculos fueron hechos gracias a la fórmula utilizada en el video del addon A320, del Canal OverSpeed. A quien agradezco por la excelente calidad del contenido de su canal
-Por mi parte soy un seguidor suyo y entusiasta de la programación.
-
-
-</value>
-  </data>
   <data name="pictureBox3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         /9j/4AAQSkZJRgABAQEASABIAAD/7gAOQWRvYmUAZAAAAAAB/+EKTEV4aWYAAE1NACoAAAAIAAcBEgAD
@@ -5143,6 +5135,14 @@ Por mi parte soy un seguidor suyo y entusiasta de la programación.
         M6RacBVCFvz7RtHu2fc1TyXeO4BltVMnkSTYYxMTVGoAtVFN3fXAkRSGS0dNEiBI0BhT6VwqAgIb2vOK
         tjEBRLoegkAuxGHuJSU3heIiDdG0FtQ1o7A9oyLOpajbA2vK9r7/AIODX7AtXCt3IBR6JkWzYFwIq7t6
         xzwBuVpKntT4tZs/yoFuiqfz6dn/ACKypRUqdm2twibCXjkQ0ivYFsHBs5Dq4CAPAf8ACX//2Q==
+</value>
+  </data>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Este Programa es de uso libre y gratuito para toda la comunidad!!
+Los cálculos fueron hechos gracias a la fórmula utilizada en el video del addon A320, del Canal OverSpeed. A quien agradezco por la excelente calidad del contenido de su canal
+Por mi parte soy un seguidor suyo y entusiasta de la programación.
+
+
 </value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">

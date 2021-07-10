@@ -158,7 +158,7 @@ namespace FMC_Flex_To_Temp
             this.panel3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.panel3.Controls.Add(this.pictureBox3);
             this.panel3.Controls.Add(this.label3);
-            this.panel3.Location = new System.Drawing.Point(15, 360);
+            this.panel3.Location = new System.Drawing.Point(3, 360);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(241, 127);
             this.panel3.TabIndex = 5;
@@ -179,7 +179,7 @@ namespace FMC_Flex_To_Temp
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label3.Location = new System.Drawing.Point(16, 10);
+            this.label3.Location = new System.Drawing.Point(24, 10);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(117, 19);
             this.label3.TabIndex = 2;
