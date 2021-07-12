@@ -139,8 +139,8 @@ namespace FMC_Flex_To_Temp
                 dato1 = isa - ((elev / 1000) * (1.98 * -1));
 
                 flextotemp = oat + dato1;
-                TB2.Text = Convert.ToString(Math.Round(flextotemp) + "°C"); 
-
+                TB2.Text = Convert.ToString(Math.Round(flextotemp) + "°C");
+                TB1.Text = "";
 
 
             } 
@@ -200,7 +200,7 @@ namespace FMC_Flex_To_Temp
             {
                isa= Convert.ToDouble(TB1.Text);
                label4.Text = TB1.Text + "°";
-                
+                TB1.Text = "";
             }
 
             catch { }
@@ -212,6 +212,7 @@ namespace FMC_Flex_To_Temp
             btnElev.Size = new Size(ancho, alto);
             try { elev = Convert.ToDouble(TB1.Text);
                 lblElev.Text = TB1.Text;
+                TB1.Text = "";
             }
             catch { }
            
@@ -232,6 +233,7 @@ namespace FMC_Flex_To_Temp
             {
                 oat = Convert.ToDouble(TB1.Text);
                 label5.Text = TB1.Text + "°C";
+                TB1.Text = "";
             }
             catch { }
             
